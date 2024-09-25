@@ -1,1 +1,29 @@
-This is an example file!
+This is an example file! Here is some random text pasted from the workshop.  One day I'll add a more creative example than this!
+
+n the linux_ws directory, make an empty file called “rags” (touch) 
+
+touch rags 
+
+Create another two called “earth” and “heaven” 
+
+touch heaven earth  
+
+Now list (ls) the contents of the present working directory 
+
+ls 
+
+ 
+
+The folder structure should now be like this: 
+
+ 
+
+Now list ALL files in the directory 
+
+
+
+sadasdsdfjkdjhjksdjkhfjkhsdkjhsdhjkfkjsdhfjksdhfg
+sdfsdfdfgdfg
+dsjkhdfgjkhfg
+
+Thank you for reading my nonsense file :)
